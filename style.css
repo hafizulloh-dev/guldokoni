@@ -1,0 +1,202 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header {
+   margin-top: 40px; 
+   display: flex;
+   justify-content: center;
+}
+.header-content {
+
+  margin-top: 40px;
+  width: 1168px;
+  min-height: 30px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap:8px;
+  position: absolute;
+  padding:  0 8px ;
+}
+.button:hover {
+  background-color:#156963;
+}
+.nima {
+  display: flex;
+  gap: 8px;
+}
+.button {
+  border: 0;
+  width: 100px;
+  height: 30px;
+  background-color: #F3F4F6;
+}
+
+.button {
+  border: 0;
+  /* background-color: #156963; */
+  width: 100px;
+  height: 30px;
+}
+.button :hover{
+  background-color: #156963;
+  /* background-color: #F3F4F6; */
+}
+.left {
+ align-items: center;
+  gap: 77px;
+  display: flex;
+}
+.rasm {
+  background-image: url(./img/orqafon.png);
+  background-repeat: no-repeat;
+  margin-top: -85px;
+}
+.right h3 {
+  font-size: 68px;
+  color: #156963;
+  
+}
+.right p {
+  line-height: 32px;
+}
+.batn {
+  
+  margin-top: 110px;
+  width: 320px;
+  height: 160px;
+  border: 0;
+  background-color: #156963;
+}
+.batnn {
+  
+  margin-top: 110px;
+  width: 320px;
+  height: 160px;
+  border: 0; 
+}
+.navbar {
+  display: flex;
+  justify-content:space-between;
+  width: 1168px;
+  margin-left: 70px;
+}
+.navbar2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar2-content {
+  display: flex;
+  flex-direction: column;
+}
+.box1 {
+  display: flex;
+  justify-content: space-between;
+  width: 1168px;
+  
+  margin-left: 70px;
+
+
+}
+.mistr-card {
+  width: 1168px;
+  margin-left:  70px ;
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+  height: 315px;
+}
+.card {
+ width: 217px;
+ display: flex;
+ flex-direction: column; 
+ text-align: center;
+}
+.orta{
+  display: flex;
+  justify-content: space-between;
+  width: 1168px;
+  margin-left: 70px;
+}
+.box2 {
+  display: flex;
+  flex-direction: column;
+}
+.box3 {
+  height: 610px;
+}
+.box2 p {
+  line-height: 28px;
+}
+.pas{
+  background-color: #F3F4F6;
+  width: 1168px;
+  margin-left: 70px;
+  height: 360px;
+  margin-top: 80.1px;
+  display: flex;
+  justify-content: space-between;
+}
+.box4 {
+  margin-top: 88px;
+  margin-left: 97px;
+}
+.box4 h2{
+  font-size: 40px;
+}
+.box4 button {
+  border: 0;
+  width: 152px;
+  height: 40px;
+  background-color: #156963;
+  margin-top: 32px;
+  color:#F3F4F6;
+}
+.foter {
+  margin-top :80px; 
+  border-top: 0.5px solid #156963;
+  display: flex;
+  align-items: center ;
+}
+
+
+.foter-content {
+  width: 800px; 
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+
+  padding: 60px 0;
+  
+}
+.box6 p{
+line-height: 20px;
+}
+.box6 h3 {
+  color: #156963;
+  font-size: 24px;
+  letter: 5%;
+}
+.box9 {
+  display: flex;
+  flex-direction: column;
+
+}
+.box9 button {
+  width: 51px;
+  border: 0;
+  background-color: #156963;
+  color: #F3F4F6;
+}
+.batnn:hover {
+  background-color: #156963;
+  /* background-color: #F3F4F6; */
+}
+
+  
+
+
